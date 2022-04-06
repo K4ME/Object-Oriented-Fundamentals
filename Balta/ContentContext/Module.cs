@@ -1,10 +1,9 @@
-﻿using System;
+﻿using Balta.SharedContext;
 using System.Collections.Generic;
-using System.Text;
 
 namespace Balta.ContentContext
-{   
-    public class Module
+{
+    public class Module : Base
     {
         public Module()
         {
